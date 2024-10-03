@@ -18,4 +18,10 @@ input {
 button {
   display: block;
   margin-top: 10px;
+  background-color: #dff4cf;
+
+}
+
+.name {
+  color: #ec9a9a;
 }
